@@ -1,0 +1,67 @@
+{
+	"collect":[
+		{
+			"id":"0",
+			"name":"葬我以风",
+			"author":"消失宾妮",
+			"picture":"/static/images/zangwoyifeng.jpg"
+		},
+		{
+			"id":"1",
+			"name":"孤独书",
+			"author":"消失宾妮",
+			"picture":"/static/images/gudushu.jpg"
+		},
+		{
+			"id":"2",
+			"name":"四重音",
+			"author":"消失宾妮",
+			"picture":"/static/images/sichongyin.jpg"
+		},
+		{
+			"id":"3",
+			"name":"大地之灯",
+			"author":"七堇年",
+			"picture":"/static/images/dadizhid.jpg"
+		},
+		{
+			"id":"4",
+			"name":"骑彩虹者",
+			"author":"消失宾妮",
+			"picture":"/static/images/qicaihongzhe.jpg"
+		},
+		{
+			"id":"5",
+			"name":"从你的全世界路过",
+			"author":"张嘉佳",
+			"picture":"/static/images/cndqlu.jpg"
+		},
+		{
+			"id":"6",
+			"name":"七月与安生",
+			"author":"安妮宝贝",
+			"picture":"/static/images/qiyueyuans.jpg"
+		},
+		{
+			"id":"7",
+			"name":"最小说",
+			"author":"郭敬明",
+			"picture":"/static/images/zuixiaoshou.jpg"
+		},
+		{
+			"id":"8",
+			"name":"灯下尘",
+			"author":"七堇年",
+			"picture":"/static/images/dengxiac.jpg"
+		},
+		{
+			"id":"9",
+			"name":"幻城",
+			"author":"郭敬明",
+			"picture":"/static/images/huancheng.jpg"
+		}
+
+
+	]
+
+}
